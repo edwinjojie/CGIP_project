@@ -1,0 +1,7 @@
+{
+  "lang": "eng",
+  "psm": "6",
+  "oem": "3",
+  "render_scale": 3.0,
+  "tesseract_path": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+}
